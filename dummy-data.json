@@ -1,0 +1,17 @@
+{
+    "entries": [{
+        "id": 2,
+        "eqname": "xxx",
+        "quantity": "xxx",
+        "description": "xxx",
+        "date": "2015-10-10",
+        "rate": "50"
+    }, {
+        "id": 1,
+        "eqname": "qqq",
+        "quantity": "xxx",
+        "description": "xxx",
+        "date": "2015-10-01",
+        "rate": "50"
+    }]
+}
