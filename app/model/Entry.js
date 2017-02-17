@@ -6,7 +6,7 @@ Ext.define('C.model.Entry', {
     },
     identifier: {
         type: 'sequential',
-        seed: 5
+        seed: 4
     },
     fields: [{
             name: 'id',

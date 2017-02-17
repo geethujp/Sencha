@@ -1,4 +1,4 @@
-Ext.define('Sencha.view.equipment.equipmentController', {
+Ext.define('Sencha.controller.equipment.equipmentController', {
     extend: 'Ext.app.ViewController',
 
     alias: 'controller.equipment-list',

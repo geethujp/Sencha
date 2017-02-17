@@ -1,4 +1,4 @@
-Ext.define('C.view.main.MainController', {
+Ext.define('C.controller.main.MainController', {
     extend: 'Ext.app.ViewController',
     alias: 'controller.main',
 

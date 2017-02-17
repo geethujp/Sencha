@@ -4,11 +4,10 @@ Ext.define('C.view.main.Main', {
 
     requires: [
         'Ext.plugin.Viewport',
-
         'C.view.main.Grid',
         'C.view.main.Form',
         'C.view.main.MainModel',
-        'C.view.main.MainController'
+        'C.controller.main.MainController'
     ],
     layout: 'border',
     controller: 'main',
